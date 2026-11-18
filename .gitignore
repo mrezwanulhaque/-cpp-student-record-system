@@ -1,0 +1,4 @@
+*.exe
+*.o
+student_manager
+students.txt
